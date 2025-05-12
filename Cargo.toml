@@ -2,6 +2,14 @@
 name = "git-contribution-analyzer"
 version = "0.1.0"
 edition = "2021"
+description = "A TUI-based tool for analyzing git repository contributions with detailed statistics"
+authors = ["Joseph NOMO <jspnomo@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/yourusername/git-contribution-analyzer"
+keywords = ["git", "tui", "statistics", "contribution"]
+categories = ["command-line-utilities", "development-tools"]
+readme = "README.md"
+
 
 [dependencies]
 clap = { version = "4.4", features = ["derive"] }
