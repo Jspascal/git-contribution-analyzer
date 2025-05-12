@@ -34,18 +34,17 @@ A TUI-based tool written in Rust for analyzing git repository contributions.
 
 ## Installation
 
-<!-- ### From Crates.io (when published)
+### From Crates.io
 
 ```bash
-cargo install git-contribution-analyzer -->
-
-````
+cargo install git-contribution-analyzer
+```
 
 ### From Local Build
 
 ```bash
 cargo install --path .
-````
+```
 
 ## Basic Usage
 
